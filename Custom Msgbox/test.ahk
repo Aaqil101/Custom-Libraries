@@ -18,6 +18,7 @@ msg.SetOptions("ToolWindow", "AlwaysOnTop")
 msg.SetColorScheme("Error")
 msg.SetCloseTimer(1)
 msg.Show()
+ExitApp
 
 /* ; Example loop to show all color schemes
 Loop 8 {

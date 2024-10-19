@@ -7,8 +7,6 @@
  * @date 2024-10-17
  * @version 2.1.0
  * @copyright 2024 Aaqil Ilyas
- * @requires https://github.com/nperovic/GuiEnhancerKit
- * @requires https://github.com/nperovic/ColorButton.ahk
  **************************************************************************/
 
 /*
