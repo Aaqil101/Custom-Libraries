@@ -219,6 +219,8 @@ class CustomMsgBox {
     /**
      * Method to set font styles
      * @param {Array} options - List of font style options
+     * @example
+     * SetFontStyle(["bold", "italic"])
      * @returns {CustomMsgBox} - This object for method chaining
      */
     SetFontStyle(options*) {
