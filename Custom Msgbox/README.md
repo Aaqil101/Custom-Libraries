@@ -132,14 +132,31 @@ msg := CustomMsgBox()
 - Colors (normal, hover, click)
 - Corner radius
 
-## License
-
-This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
-
-## Credits
-
-Created by Aaqil Ilyas (2024)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📜 License
+
+This project is licensed under the WTFPL License - see the [LICENSE](LICENSE) file for details.
+
+## ✨ Contributors
+
+- Aaqil Ilyas (Creator & Maintainer)
+
+## 📮 Contact
+
+- GitHub: [@Aaqil101](https://github.com/Aaqil101)
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who help maintain and improve these libraries
+- Special thanks to the AutoHotkey community for their support and feedback
+
+## 📊 Project Status
+
+This repository is actively maintained. Updates are added "regularly".
+
+---
+
+*Note: This repository is a collection of independent libraries. Each library may have additional dependencies or requirements. Please check individual library documentation for specific details.*
