@@ -35,21 +35,6 @@ git clone https://github.com/Aaqil101/Custom-Libraries.git
 #Include <LibraryName>/<LibraryName>.ahk
 ```
 
-## 📂 Repository Structure
-
-```
-Custom-Libraries/
-├── Custom Msgbox/
-│   ├── CustomMsgbox.ahk
-│   ├── GuiEnhancerKit.ahk
-│   ├── ColorButton.ahk
-│   ├── ColorSchemes.ahk
-│   └── README.md
-├── docs/
-│   └── guidelines.md
-└── README.md
-```
-
 ## 📝 Documentation Standards
 
 Each library in this collection follows these documentation standards:
@@ -59,7 +44,6 @@ Each library in this collection follows these documentation standards:
    - Feature Overview
    - Installation instructions
    - Usage examples
-   - API Documentation
    - Dependencies list
 3. Inline code documentation using JSDoc-style comments
 4. Example scripts demonstrating common use cases
@@ -73,8 +57,6 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
-
-Please make sure your contributions follow our [documentation standards](docs/guidelines.md) and include the appropriate tests.
 
 ### Library Submission Guidelines
 
