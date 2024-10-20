@@ -4,7 +4,7 @@
  * include customizable colors, fonts, buttons, positioning, auto-close timers, and
  * multiple pre-defined color schemes with support for custom themes.
  * 
- * @license WTFPL
+ * @license GPL-3.0
  * @file CustomMsgbox.ahk
  * @author Aaqil Ilyas
  * @link (https://github.com/Aaqil101/Custom-Libraries/tree/master/Custom%20Msgbox)
