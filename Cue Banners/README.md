@@ -8,7 +8,7 @@
 - 👀 Supports keeping the placeholder visible even when the control has focus.
 - ⚡ Simple and lightweight integration into any AutoHotkey GUI project.
 - 🔄 Converted from AutoHotkey v1 to v2, with additional comments and improvements.
-- 🎯 Supports [generic set method](https://github.com/Aaqil101/Custom-Libraries/tree/master/Cue%20Banners#example-setting-a-cue-banner-for-a-combobox-control).
+- 🎯 Supports [generic set method](https://github.com/Aaqil101/Custom-Libraries/tree/master/Cue%20Banners#example-setting-a-cue-banner-for-any-control).
 
 ## 📋 Requirements
 
