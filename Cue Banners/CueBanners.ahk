@@ -9,10 +9,10 @@
  **************************************************************************/
 
 /*
-* All goes to the original author (https://github.com/jNizM).
-* Use take a look at the original script in (https://github.com/jNizM/AHK_Scripts/blob/master/src/gui/GUI_Cue_Banner.ahk).
-* I just converted the AutoHotkey v1 to AutoHotkey v2 and change from function to class. I also added some comments.
+* All credits go to the original author. (https://github.com/jNizM).
+* I just converted the AutoHotkey v1 to AutoHotkey v2 and changed from function to class. I also added some comments.
 * Converted using (https://claude.ai).
+* Take a look at the original script in (https://github.com/jNizM/AHK_Scripts/blob/master/src/gui/GUI_Cue_Banner.ahk).
 */
 
 #Requires Autohotkey v2.0
