@@ -20,7 +20,7 @@ A highly configurable and modern-looking message box library that provides exten
 
 ### Prerequisites
 - AutoHotkey v2.0 or later
-- Windows 7 or later
+- Windows 10 or later (*Might Work On Windows 7 But I Didn't Test On Windows 7*)
 
 ### Installation
 1. Clone the repository:
@@ -34,6 +34,8 @@ git clone https://github.com/Aaqil101/Custom-Libraries.git
 ```AutoHotkey
 #Include <LibraryName>/<LibraryName>.ahk
 ```
+
+*Note: For each library, there will be a **README.md** file with more information on everything you need to know about the library.*
 
 ## 📝 Documentation Standards
 
