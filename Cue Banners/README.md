@@ -8,7 +8,7 @@
 - 👀 Supports keeping the placeholder visible even when the control has focus.
 - ⚡ Simple and lightweight integration into any AutoHotkey GUI project.
 - 🔄 Converted from AutoHotkey v1 to v2, with additional comments and improvements.
-- 🎯 Supports [[README.md#Example: Setting a Cue Banner for any Control|generic set methods]] for both `Edit` and `ComboBox` controls.
+- 🎯 Supports [generic set method](https://github.com/Aaqil101/Custom-Libraries/tree/master/Cue%20Banners#example-setting-a-cue-banner-for-a-combobox-control).
 
 ## 📋 Requirements
 
@@ -24,8 +24,6 @@
    ```
 
 ## 🛠️ Usage
-
-You can use this class to set a cue banner (placeholder text) for an `Edit` or `ComboBox` control.
 
 ### Example: Setting a Cue Banner for an Edit Control
 
