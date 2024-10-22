@@ -5,7 +5,7 @@ Persistent
 ; Arial|Calibri|Comic Sans MS|Courier New|Segoe Script|Segoe UI|Tahoma|Times New Roman|Verdana
 ; Bold italic strike underlin
 
-#Include Lib\CustomMsgbox.ahk
+#Include CustomMsgbox.ahk
 #Include Lib\CursorHandler.ahk
 
 TraySetIcon(A_ScriptDir "\Icon\SW_Value1Icon.png")
