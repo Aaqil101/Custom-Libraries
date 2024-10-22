@@ -1,9 +1,11 @@
 # 🎨 CueBanners.ahk
 
-- All credits go to the original author. (https://github.com/jNizM).
-- I just converted the AutoHotkey v1 to AutoHotkey v2 and changed from function to class. I also added some comments.
-- Converted using (https://claude.ai).
-- Take a look at the original script in (https://github.com/jNizM/AHK_Scripts/blob/master/src/gui/GUI_Cue_Banner.ahk).
+- *All credits go to the original author. (https://github.com/jNizM).*
+- *I just converted the AutoHotkey v1 to AutoHotkey v2 and changed from function to class. I also added some comments.*
+- *Converted using (https://claude.ai).*
+- *Take a look at the original script in (https://github.com/jNizM/AHK_Scripts/blob/master/src/gui/GUI_Cue_Banner.ahk).*
+
+---
 
 **CueBanners** is an [AutoHotkey v2](https://www.autohotkey.com/v2) script that allows you to set placeholder text (cue banners) for `Edit` and `ComboBox` controls for AutoHotkey v2 GUIs.
 
