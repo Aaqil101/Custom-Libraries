@@ -35,7 +35,7 @@ git clone https://github.com/Aaqil101/Custom-Libraries.git
 #Include <LibraryName>/<LibraryName>.ahk
 ```
 
-*Note: For each library, there will be a **README.md** file with more information on everything you need to know about the library.*
+*Note: For each library, there will be a **README.md** file with more information on everything you need to know about that library.*
 
 ## 📝 Documentation Standards
 
