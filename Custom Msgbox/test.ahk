@@ -8,17 +8,9 @@ Persistent
 #Include CustomMsgbox.ahk
 #Include Lib\CursorHandler.ahk
 
-TraySetIcon(A_ScriptDir "\Icon\SW_Value1Icon.png")
-
-CustomMsgBox.AddColorScheme("Error", "FF0000", "FFFFFF", "d46666")
-msg := CustomMsgBox()
-msg.SetText("selectedFolders.Length", "Please select at least one folder to create.")
-msg.SetPosition(500, 500)
-msg.SetOptions("ToolWindow", "AlwaysOnTop")
-msg.SetColorScheme("Error")
-msg.SetCloseTimer(1)
-msg.Show()
-ExitApp
+/* Run(
+    "C:\Users\User\Documents\GitHub\FF-Creation\FF-Creation.ahk"
+) */
 
 /* ; Example loop to show all color schemes
 Loop 8 {
