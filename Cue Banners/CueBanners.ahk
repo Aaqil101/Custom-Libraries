@@ -5,7 +5,7 @@
  * @author jNizM modified by Aaqil Ilyas
  * @link (https://github.com/Aaqil101/Time-Calculator)
  * @created 2024-10-22
- * @version 2.0.0
+ * @version 2.0.1
  **************************************************************************/
 
 /*
@@ -71,7 +71,6 @@ class CueBanners {
 }
 ! */
 
-; CueBanners.ahk
 class CueBanners {
     ; Windows Messages for setting cue banners
     static EM_SETCUEBANNER := 0x1501
